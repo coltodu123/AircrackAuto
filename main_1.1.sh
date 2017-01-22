@@ -5,7 +5,7 @@
 ########################
 
 #github.com/coltodu123
-#Contact coltodu@gmail.com
+#Contact NSA
 #this is a autmated program for airmon and aircrack to bruteforce logins. 
 #you can use crunch if you dont have a wordlist and if you have the semi password
 #Mr. Robot for life
